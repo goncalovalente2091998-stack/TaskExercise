@@ -6,7 +6,8 @@ Usei o ChatGPT para apoio na implementação de lambda e resolução de erros.
 Implementei métodos async/await para não bloquear a thread da API e melhorar a performance da aplicação.
 Usei stored procedures para segurança e melhor manutenção da base de dados.
 A IA sugeriu validações e boas práticas, como colocar a connection string no appsettings.json 
-pois a mesma nao deve estar exposta e permite mudar de ambientes facilmente sem recompilar em ambiente de trabalho corporativo.
+pois a mesma nao deve estar exposta e permite mudar de ambientes facilmente sem recompilar em ambiente de trabalho corporativo,
+no entanto como decisão final  usaria variaveis de ambiente , em contexto de trabalho, pois esconde melhor os dados( passwords ou outro tipo de dados importantes).
 Para o frontend, usei Bootstrap com React para melhorar a apresentação com pouco código e adicionar design responsive.
 Validei as respostas testando o código e ajustando onde fosse necessário, complementando com explicações da IA.
 
