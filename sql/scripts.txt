@@ -1,0 +1,37 @@
+CREATE DATABASE TaskManager;
+
+CREATE TABLE Tasks (
+    Id INT IDENTITY(1,1) PRIMARY KEY,     
+    Title NVARCHAR(200) NOT NULL,   
+    IsCompleted BIT NOT NULL DEFAULT 0,              bit para que se nao estiver feito 0, se feito 1
+    CreatedAt DATETIME NOT NULL DEFAULT GETDATE()    default getdate para automaticamente aparecer na bd o momento em que foi inserido
+);
+
+
+Procedures 
+
+CREATE PROCEDURE GetAllTasks
+AS
+BEGIN
+    SELECT Id, Title, IsCompleted, CreatedAt FROM Tasks
+END
+GO
+
+CREATE PROCEDURE CreateTask
+    @Title NVARCHAR(200)
+AS
+BEGIN
+    INSERT INTO Tasks (Title) VALUES (@Title)
+END
+GO
+
+CREATE OR ALTER PROCEDURE UpdateTask
+    @Id INT,
+    @IsCompleted BIT
+AS
+BEGIN
+    UPDATE Tasks
+    SET IsCompleted = @IsCompleted
+    WHERE Id = @Id;
+END;
+GO

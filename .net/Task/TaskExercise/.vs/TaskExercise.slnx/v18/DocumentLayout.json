@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|c:\\users\\gonca\\desktop\\projeto\\curriculo\\taskexercise\\.net\\task\\taskexercise\\services\\taskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|solutionrelative:services\\taskservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|c:\\users\\gonca\\desktop\\projeto\\curriculo\\taskexercise\\.net\\task\\taskexercise\\handlers\\taskhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|solutionrelative:handlers\\taskhandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|c:\\users\\gonca\\desktop\\projeto\\curriculo\\taskexercise\\.net\\task\\taskexercise\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|solutionrelative:data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|c:\\users\\gonca\\desktop\\projeto\\curriculo\\taskexercise\\.net\\task\\taskexercise\\data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|solutionrelative:data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|c:\\users\\gonca\\desktop\\projeto\\curriculo\\taskexercise\\.net\\task\\taskexercise\\controlers\\frontendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|solutionrelative:controlers\\frontendcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|c:\\users\\gonca\\desktop\\projeto\\curriculo\\taskexercise\\.net\\task\\taskexercise\\models\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|solutionrelative:models\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|c:\\users\\gonca\\desktop\\projeto\\curriculo\\taskexercise\\.net\\task\\taskexercise\\models\\createtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|solutionrelative:models\\createtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|c:\\users\\gonca\\desktop\\projeto\\curriculo\\taskexercise\\.net\\task\\taskexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08424A5D-1A6E-992D-BDB0-3920373E8864}|TaskExercise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dto.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\Models\\Dto.cs",
+              "RelativeDocumentMoniker": "Models\\Dto.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\Models\\Dto.cs",
+              "RelativeToolTip": "Models\\Dto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T20:25:28.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\Data\\Repository.cs",
+              "RelativeDocumentMoniker": "Data\\Repository.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\Data\\Repository.cs",
+              "RelativeToolTip": "Data\\Repository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T20:13:18.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\IRepository.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\Data\\IRepository.cs",
+              "RelativeToolTip": "Data\\IRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T20:12:55.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\Handlers\\TaskHandlers.cs",
+              "RelativeDocumentMoniker": "Handlers\\TaskHandlers.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\Handlers\\TaskHandlers.cs",
+              "RelativeToolTip": "Handlers\\TaskHandlers.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T20:10:19.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrontEndController.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\Controlers\\FrontEndController.cs",
+              "RelativeDocumentMoniker": "Controlers\\FrontEndController.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\Controlers\\FrontEndController.cs",
+              "RelativeToolTip": "Controlers\\FrontEndController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:49:00.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskServices.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\Services\\TaskServices.cs",
+              "RelativeDocumentMoniker": "Services\\TaskServices.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\Services\\TaskServices.cs",
+              "RelativeToolTip": "Services\\TaskServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T20:09:14.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateTask.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\Models\\CreateTask.cs",
+              "RelativeDocumentMoniker": "Models\\CreateTask.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\Models\\CreateTask.cs",
+              "RelativeToolTip": "Models\\CreateTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T20:25:49.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "program.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\program.cs",
+              "RelativeDocumentMoniker": "program.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\projeto\\curriculo\\TaskExercise\\.net\\Task\\TaskExercise\\program.cs",
+              "RelativeToolTip": "program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T19:49:04.991Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

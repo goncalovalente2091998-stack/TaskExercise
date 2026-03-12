@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Models\\ItemTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskExercise\\Models\\ItemTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Models\\CreateTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskExercise\\Models\\CreateTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Handlers\\TaskHandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskExercise\\Handlers\\TaskHandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Data\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskExercise\\Data\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Data\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskExercise\\Data\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Handlers\\TaskHandlers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Services\\TaskServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Data\\IRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Data\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Models\\CreateTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Models\\ItemTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\TaskFunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\Task\\TaskExercise.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task\\TaskExercise.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemTask.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Models\\ItemTask.cs",
+              "RelativeDocumentMoniker": "TaskExercise\\Models\\ItemTask.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Models\\ItemTask.cs",
+              "RelativeToolTip": "TaskExercise\\Models\\ItemTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:51:17.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateTask.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Models\\CreateTask.cs",
+              "RelativeDocumentMoniker": "TaskExercise\\Models\\CreateTask.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Models\\CreateTask.cs",
+              "RelativeToolTip": "TaskExercise\\Models\\CreateTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:51:17.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Handlers\\TaskHandlers.cs",
+              "RelativeDocumentMoniker": "TaskExercise\\Handlers\\TaskHandlers.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Handlers\\TaskHandlers.cs",
+              "RelativeToolTip": "TaskExercise\\Handlers\\TaskHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:51:13.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Data\\Repository.cs",
+              "RelativeDocumentMoniker": "TaskExercise\\Data\\Repository.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Data\\Repository.cs",
+              "RelativeToolTip": "TaskExercise\\Data\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:51:11.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "TaskExercise\\Data\\IRepository.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\TaskExercise\\Data\\IRepository.cs",
+              "RelativeToolTip": "TaskExercise\\Data\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:51:11.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskExercise.csproj",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\Task\\TaskExercise.csproj",
+              "RelativeDocumentMoniker": "Task\\TaskExercise.csproj",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\ProjectoPo\u00E7aConsulting\\.net\\Task\\Task\\TaskExercise.csproj",
+              "RelativeToolTip": "Task\\TaskExercise.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T17:49:15.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskHandlers.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Handlers\\TaskHandlers.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Handlers\\TaskHandlers.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Handlers\\TaskHandlers.cs",
+              "RelativeToolTip": "..\\..\\..\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Handlers\\TaskHandlers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:30:22.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskServices.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Services\\TaskServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Services\\TaskServices.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Services\\TaskServices.cs",
+              "RelativeToolTip": "..\\..\\..\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Services\\TaskServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:29:47.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Data\\IRepository.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Data\\IRepository.cs",
+              "RelativeToolTip": "..\\..\\..\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Data\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:29:23.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Data\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Data\\Repository.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Data\\Repository.cs",
+              "RelativeToolTip": "..\\..\\..\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Data\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:29:10.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateTask.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Models\\CreateTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Models\\CreateTask.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Models\\CreateTask.cs",
+              "RelativeToolTip": "..\\..\\..\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Models\\CreateTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:28:43.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItemTask.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Models\\ItemTask.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Models\\ItemTask.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Models\\ItemTask.cs",
+              "RelativeToolTip": "..\\..\\..\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\Models\\ItemTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:28:31.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\TaskFunctions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\TaskFunctions.cs",
+              "ToolTip": "C:\\Users\\gonca\\Desktop\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\TaskFunctions.cs",
+              "RelativeToolTip": "..\\..\\..\\Projecto Po\u00E7a consulting\\.net\\Task\\Task\\TaskFunctions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:27:50.702Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

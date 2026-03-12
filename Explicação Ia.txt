@@ -1,0 +1,10 @@
+Usei a IA para aprender sobre AWS Lambda, desde a instalação de pacotes até como funciona o código, pedindo explicações detalhadas para entender o funcionamento.
+Percebi que o Lambda é como um autocomando que só roda quando algo acontece, sem precisar de servidor, escrevendo apenas uma função em C#.
+Exemplo: receber um email e enviar automaticamente uma resposta agradecendo.
+Aprendi os benefícios, como não precisar de servidor 24h, maior segurança e pagar apenas pelo uso da função.
+Usei o ChatGPT para apoio na implementação e resolução de erros, além de sugestões de melhorias.
+Implementei métodos async/await para não bloquear a thread da API e melhorar a performance da aplicação.
+Usei stored procedures para segurança e melhor manutenção da base de dados.
+A IA sugeriu validações e boas práticas, como colocar a connection string no appsettings.json para organização e flexibilidade.
+Para o frontend, usei Bootstrap com React para melhorar a apresentação com pouco código e adicionar design responsive.
+Validei as respostas testando o código e ajustando onde necessário, complementando com explicações da IA.
